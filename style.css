@@ -550,7 +550,7 @@ body {
     opacity: 0;
     visibility: hidden;
     animation: firework 2s forwards;
-    animation-delay: 5s;
+    animation-delay: 3s;
     transform: translate(30px, 300px);
 }
 
@@ -579,7 +579,7 @@ body {
     transform: translate(-50px, 35px);
     /* transform: translate(-60px, -50px); */
     animation: firework1 2s linear infinite;
-    animation-delay: 6s;
+    animation-delay: 3s;
     transition: all 1s ease-in-out;
 }
 
@@ -642,7 +642,7 @@ span {
     width: 350px;
     transition: all 1s;
     animation: paperCannons 2s forwards;
-    animation-delay: 7s;
+    animation-delay: 3s;
     opacity: 0;
     visibility: hidden;
 }
@@ -702,7 +702,7 @@ span {
     opacity: 0;
     visibility: hidden;
     animation: giftbox1 4s forwards;
-    animation-delay: 8s;
+    animation-: 8s;
 }
 
 .container .box-giftbox>img:nth-child(4) {
@@ -1120,7 +1120,7 @@ span {
     top: 210px;
     left: -100px;
     animation: cute 3s infinite ease-in-out;
-    animation-delay: 13s;
+    animation-delay: 3s;
 }
 
 @keyframes cute {
@@ -1155,7 +1155,7 @@ span {
     margin-top: -30px;
     margin-left: -40px;
     animation: cutemail 3s linear infinite;
-    animation-delay: 13s;
+    animation-delay: 3s;
     z-index: -1;
     opacity: 0;
     font-weight: 600;
@@ -1190,7 +1190,7 @@ span {
     right: -100px;
     transform: scaleX(-1);
     animation: cute2 3s infinite ease-in-out;
-    animation-delay: 12s;
+    animation-: 12s;
 }
 
 @keyframes cute2 {
@@ -1434,7 +1434,7 @@ span {
 
 .boxMail .boxMail-container .card2:hover h2 {
     animation: texth2 2s forwards;
-    animation-delay: 4s;
+    animation-: 4s;
     transition: 1s;
 }
 
