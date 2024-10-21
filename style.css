@@ -62,7 +62,7 @@ body {
     animation: flag 1s forwards;
     opacity: 0;
     visibility: hidden;
-    animation-delay: s;
+    animation-delay: 3s;
     z-index: 1;
     transition: all 1s;
 }
